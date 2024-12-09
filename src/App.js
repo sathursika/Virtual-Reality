@@ -8,6 +8,7 @@ import TechnologiesPage from "./components/TechnologiesPage";
 import Contact from "./components/contact";
 import Footer from "./components/Footer";
 
+
 const App = () => {
   return (
     <div>
